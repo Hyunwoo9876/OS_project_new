@@ -1,4 +1,4 @@
-# OS_project_new readme
+# OS_project_new
 
 # miniOS
 miniOS-project/  
